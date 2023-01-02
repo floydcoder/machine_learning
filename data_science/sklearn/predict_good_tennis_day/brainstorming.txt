@@ -1,0 +1,88 @@
+What are the variables that can effect a good-day or a bad-day for playing tennis?
+- Based on my understanding:
+  Weather:
+    * Rain
+      - Light rain: < 2.5 mm per hour
+      - Moderate rain: between 2.5 mm and 7.6 per hour
+      - Heavy rain: > 7.6 per hour OR between 7.6 mm and 10 mm per hour
+      - Violent rain: > 50 mm per hour
+    * Wind
+      - Calm: < 2 Km/h
+      - Light air: between 2 and 6 km/h
+      - Light Breeze: between 7 and 11 km/h
+      - Gentle Breeze: between 13  and 19 km/h
+      - Moderate Breeze: between 20  and 30 km/h
+      - Fresh Breeze: between 31  and 39 km/h
+      - Strong Breeze: between 41  and 50 km/h
+      - Moderate Gale: between 51  and 61 km/h
+      - Fresh Gale: between 61  and 74 km/h
+      - Strong Gale: between 74  and 87 km/h
+      - Whole Gale:  between 87  and 102 km/h
+      - Storm: between 102 and 117 km/h
+      - Hurricane: > 117 km/h
+    * UV
+      - Minimal risk: 0 to 2
+      - Low risk: 3 to 5, but hat, sunscreen and glasses are recommended  
+      - Moderate Risk: 6 to 7, should be careful and be protected by sunscreen to sensitives areas
+      - High Risk: 8 to 10, minimize sun exposure from 10 am to 4pm. When outside seek shade
+      - Very High Risk: > 11, People working outside can be in danger. Minimize sun exposure 
+    * Air Quality 
+      - Good(1-3): 0 to 50
+      - Moderate(4-6): 51 to 200
+      - Very Unhealthy(7-9): 201 to 300
+      - Hazardous(10-11): 301 to 500 
+    * Humidity
+      - comfortable: 20 to 29
+      - some discomfort: 30 to 39
+      - great discomfort: 40 to 45
+      - dangerous: > 45 
+    * Temperatures 
+      - Glacial: < - 13
+      - Freezing: between -12 to -6  
+      - Very Cold: between -5 and 0
+      - Quite Cold: between 1 to 5
+      - Cold: between 6 to 10
+      - Chilly: between 11 13
+      - Not cold: between 14 to 17
+      - slightly Warm: between 18 to 20
+      - Warm: between 21 to 25
+      - Quite warm: 26 to 28
+      - Hot: 29 to 33
+      - Very hot: 34 to 38
+      - Too Hot: 39 to 42
+      - Extreme Heat: 42 to 46
+      - Unbearably Heating: > 46
+    * Visibility
+      - Light Fog: 500 m 
+      - Moderate Fog: Between 500 and 200 meters
+      - Thick Fog: Between 200 and 50 meters
+      - Dense Fog: < 50 meters 
+    * Snow
+      -Low: < 0.5 inches per hour
+      -Medium: between 0.5 inches and 1.5 inches per hour
+      -High: > 1.5 inches per hour
+- Based on internet research 
+  - Type of the court -> Grass, Clay, Hard or Astro-Turf
+    * Astro-Turf: Playable when rain stops, if heavy downpour the court takes 1/2 hour to drain.
+    * Hard: A bit harder to play on them when wet, but they drain pretty fast.
+    * Clay: Tends to soak up the water, but if it is extremely heavy rain the court can be damaged.
+    * Grass: extremely slippery when wet, even the pros would restrain from playing.
+    
+
+It is important to consider that depending on the weather, different types of tennis courts can be effected
+differently.
+
+Rules of coexistence:
+
+Never UV > 0 
+
+                    -> Rain: POSSIBLE 
+Temperatures > 0 =  
+                    -> Snow: IMPOSSIBLE
+
+
+                    -> Rain: IMPOSSIBLE 
+Temperatures < -1 =                      = The higher is the humidly 
+                                           the greater the snow fall  
+                    -> Snow: POSSIBLE
+

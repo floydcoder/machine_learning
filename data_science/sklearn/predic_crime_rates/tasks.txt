@@ -1,0 +1,13 @@
+1- Successfully import data into a pandas DataFrame.
+
+2- Display shape and summary statistics of the data, also check if there are any NaN values in the data and deal with them if necessary.
+
+3- Plot the data using matplotlib with at-least 2 different chart types 
+
+4- Split the data into training and testing set for validation and performance measuring.
+
+5- Train a linear regression model using the SKLearn library, with training data
+
+6- Test the trained model with testing data set by making predictions.
+
+7- Check and display the performance of the model with Mean Squared Error.

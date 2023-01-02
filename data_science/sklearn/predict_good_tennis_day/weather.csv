@@ -1,0 +1,33 @@
+temperatures,rain,rain_duration,snow,snow_duration,wind,uv,humidity,air_quality,visibility,play
+10,0,0,0,0,2,1,20,4,good,TRUE
+5,1,40,0,0,1,0,70,6,good,TRUE
+5,2.5,80,0,0,1,0,80,6,quite good,FALSE
+7,0,0,0,0,11,3,50,4,good,TRUE
+15,0,0,0,0,20,5,40,4,good,FALSE
+10,0,0,0,0,0,0,80,6,not good,TRUE
+7,0,0,0,0,0,0,80,6,not good,TRUE
+5,0,0,0,0,11,2,60,4,good,TRUE
+4,0,0,0,0,2,2,40,3,good,TRUE
+1,0.1,30,0,0,2,2,40,3,good,TRUE
+3,3.5,50,0,0,2,0,80,6,good,FALSE
+-2,0,0,0.5,30,2,0,80,3,quite good,TRUE
+-4,0,0,1.5,70,4,0,80,2,not good,FALSE
+-6,0,0,1.5,50,8,0,80,2,not good,FALSE
+0,0,0,0.5,20,3,0,80,1,quite good,TRUE
+-15,0,0,0,0,17,5,50,1,quite good,FALSE
+-10,0,0,0,0,15,4,40,1,quite good,TRUE
+20,0,0,0,0,2,4,40,2,quite good,TRUE
+25,10,70,0,0,4,0,80,5,not good,FALSE
+30,0,0,0,0,2,10,67,5,good,TRUE
+35,0,0,0,0,2,11,78,6,good,FALSE
+37,0,0,0,0,2,10,60,6,good,FALSE
+24,0.1,56,0,0,4,1,70,5,good,TRUE
+21,0,0,0,0,2,6,50,2,good,TRUE
+20,1,40,0,0,2,4,50,2,good,TRUE
+17,0,0,0,0,6,5,50,2,good,TRUE
+15,2.5,70,0,0,10,0,70,5,good,FALSE
+40,0,0,0,0,0,9,50,6,good,TRUE
+45,0,0,0,0,0,10,55,7,good,FALSE
+4,0,0,0,0,2,5,36,3,good,TRUE
+-1,0,0,1,30,2,1,25,2,good,TRUE
+-10,0,0,0,0,1,6,24,1,good,TRUE
